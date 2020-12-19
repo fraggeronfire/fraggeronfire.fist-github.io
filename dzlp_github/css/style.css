@@ -886,7 +886,7 @@ hr {
   left: 940px;
   top: 905px;
 
-  background: url(/img/new_colection.jpg);
+  background: url(../img/new_colection.jpg);
 }
 
 .new_colection-text {
@@ -961,7 +961,7 @@ hr {
   height: 600px;
   left: 0px;
   top: 1635px;
-  background: url(/img/pidjak.jpg);
+  background: url(../img/pidjak.jpg);
 }
 
 /* old colection */
@@ -1470,7 +1470,7 @@ hr {
   height: 400px;
   left: 0px;
   top: 3886px;
-  background: url(/img/about.jpg) no-repeat;
+  background: url(../img/about.jpg) no-repeat;
 }
 
 .footer__title__about {
